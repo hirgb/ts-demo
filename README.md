@@ -2,6 +2,14 @@
 
 This is a typescript package demo and template.
 
+## Directory
+
+- src
+- dist
+- example
+- test
+- script
+
 ## Usage
 
 - `git clone`
