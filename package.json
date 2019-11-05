@@ -1,6 +1,10 @@
 {
     "private": true,
-    "scripts": {},
+    "scripts": {
+        "build:umd": "tsc",
+        "build:browser": "node script/buildForBrowser.js",
+        "prepare": "node script/prepare.js"
+    },
     "devDependencies": {
         "chalk": "^2.4.2",
         "execa": "^3.2.0",

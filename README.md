@@ -14,6 +14,7 @@ This is a typescript package demo and template.
 
 - `git clone`
 - `npm i`
-- `rollup -c`
+- build a es module for node, run `npm run build:esm`
+- build a browser script file, run `npm run build:browser`
 - `git remote set-url origin https://github.com/zhangkefei/***.git`
 - `git push`
